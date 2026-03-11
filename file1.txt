@@ -1,1 +1,4 @@
 Hello GitHub
+change the main branch
+merge the conflict and resolve it
+
